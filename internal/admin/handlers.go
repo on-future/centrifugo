@@ -2,13 +2,13 @@ package admin
 
 import (
 	"encoding/json"
+	"github.com/centrifugal/centrifuge"
 	"net/http"
 	"strings"
 
-	"github.com/centrifugal/centrifugo/internal/api"
-	"github.com/centrifugal/centrifugo/internal/middleware"
+	"centrifugo/internal/api"
+	"centrifugo/internal/middleware"
 
-	"github.com/centrifugal/centrifuge"
 	"github.com/gorilla/securecookie"
 	"github.com/rs/zerolog/log"
 )

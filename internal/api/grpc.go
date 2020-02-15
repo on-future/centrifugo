@@ -2,7 +2,6 @@ package api
 
 import (
 	"context"
-
 	"github.com/centrifugal/centrifuge"
 	"google.golang.org/grpc"
 )

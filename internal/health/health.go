@@ -1,9 +1,8 @@
 package health
 
 import (
-	"net/http"
-
 	"github.com/centrifugal/centrifuge"
+	"net/http"
 )
 
 // Config of health check handler.

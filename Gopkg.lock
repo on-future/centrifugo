@@ -52,7 +52,7 @@
 [[projects]]
   branch = "master"
   digest = "1:47d367213dd5589f64966bfe050dba0a0e0cff172527386e5021ee2090555bb8"
-  name = "github.com/centrifugal/centrifuge"
+  name = "centrifuge"
   packages = [
     ".",
     "internal/priority",

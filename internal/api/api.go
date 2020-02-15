@@ -2,10 +2,9 @@ package api
 
 import (
 	"context"
+	"github.com/centrifugal/centrifuge"
 	"sync"
 	"time"
-
-	"github.com/centrifugal/centrifuge"
 )
 
 // apiExecutor can run API methods.

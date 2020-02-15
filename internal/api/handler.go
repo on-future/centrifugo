@@ -2,12 +2,11 @@ package api
 
 import (
 	"context"
+	"github.com/centrifugal/centrifuge"
 	"io"
 	"io/ioutil"
 	"net/http"
 	"strings"
-
-	"github.com/centrifugal/centrifuge"
 )
 
 // Config configures APIHandler.

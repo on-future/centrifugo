@@ -2,9 +2,8 @@ package api
 
 import (
 	"context"
-	"testing"
-
 	"github.com/centrifugal/centrifuge"
+	"testing"
 	"github.com/stretchr/testify/require"
 )
 
